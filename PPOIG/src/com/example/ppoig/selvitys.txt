@@ -1,2 +1,0 @@
-[1.617,0.0] on polynomin 1.0x^2*-1.0x-1.0 sisäpuolella.
-[-0.618034,0.0] on polynomin 1.0x^2*-1.0x-1.0 rajalla.
